@@ -1,0 +1,19 @@
+.square {
+  height: 200px;
+  width: 200px;
+}
+.square_red {
+  background-color: red (255, 0, 0, 0.5);
+}
+.square_green {
+  background-color: green(0, 255, 0, 0.5);
+  left: 25px;
+  position: absolute;
+  top: 25px;
+}
+.square_blue {
+  background-color: blue (0, 0, 255, 0.5);
+  left: 50px;
+  position: absolute;
+  top: 50px;
+}
